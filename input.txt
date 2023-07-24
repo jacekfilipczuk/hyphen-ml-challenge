@@ -1,0 +1,14 @@
+Hi! My name is Simon, and I'm CTO at Hyphen.
+
+At Hyphen, we have a bold vision to bring personal and private AI to the world. We believe that AI should be used to help people, not to exploit them. We are building a platform that will allow people to use AI to help them in their daily lives, without having to give up their privacy.
+We are currently hiring the most talented people we can find to help us bring this vision to life.
+
+My co-founders Yngvi and Kasper are both, like myself, seasoned founders and our values have brought us together for our most amibitious project yet.
+
+Our current team is small, consting of Thomas (Product Manager), Andrei (Senior Fullstack/Architect) and Volodomyr (Senior Trust Engineer), and we are currently hiring for 2 open positions.
+
+When I'm not working, I like spending time with friends and family. Some of my hobbies include running, going to the gym, learning to play piano and playing badminton. I live in Copenhagen, a great city (especially in the summer).
+
+I also spend a lot of time reading and digesting knowledge, like the latest research in AI/ML and Self-Sovereign Identity.
+
+I really don't enjoy writing about myself, but if it can help us find the right Senior ML Engineer, then it's absolutely worth it :-)
